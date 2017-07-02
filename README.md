@@ -9,8 +9,8 @@ The repository contains notes and assignments for this course. Current students,
 
 ## Topics covered
 
-*Quadrotor Kinematics and Dynamics
-*Motion Planning and Control for Quadrotors
-*Introduction to Nonlinear Control
+1. Quadrotor Kinematics and Dynamics
+1. Motion Planning and Control for Quadrotors
+1. Introduction to Nonlinear Control
 
-### More information about this course can be found at the [coursera page.](https://www.coursera.org/learn/robotics-flight/home/info).
+*More information about this course can be found at the [coursera page.](https://www.coursera.org/learn/robotics-flight/home/info).*
