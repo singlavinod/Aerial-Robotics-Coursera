@@ -3,7 +3,7 @@ The repository contains notes and assignments for this course. Current students,
 
 ## Assignments completed using Quadrotor simulator
 
-1. Implemented a PD controller to control the height of a quadrotor.
+1. Implemented a PD controller to control the height of a quadrotor (*Hover maneuver*).
 1. Implemented a PD controller to make the quadrotor follow a desired 2D trajectory (*straight line & sine curve*).
 1. Implemented a PD controller to make the quadrotor follow a desired 3D trajectory (*given a set of waypoints*).
 
