@@ -1,8 +1,6 @@
 # Robotics: Aerial Robotics
 This repository contains notes and assignments for the first course in Robotics Specialization offered by University of Pennsylvania on Coursera. 
 
-**Current students, please do not plagiarize this work as it results in violation of Coursera honor code.**
-
 ## Assignments completed using Quadrotor simulator
 
 1. Implemented a PD controller to control the height of a quadrotor (*Hover maneuver*).
@@ -16,3 +14,5 @@ This repository contains notes and assignments for the first course in Robotics 
 1. Introduction to Nonlinear Control
 
 *More information about this course can be found at the [coursera page.](https://www.coursera.org/learn/robotics-flight/home/info).*
+
+*Current students, please avoid plagiarizing this work as it results in violation of Coursera honor code.*
