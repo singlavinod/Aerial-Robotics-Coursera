@@ -12,8 +12,5 @@ Kp = 100;
 Kv = 16;
 u = params.mass*(z2dot_des + Kp*e + Kv*edot + params.gravity); 
 
-% FILL IN YOUR CODE HERE
-
-
 end
 
