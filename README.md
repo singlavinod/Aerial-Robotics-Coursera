@@ -1,5 +1,7 @@
 # Robotics: Aerial Robotics
-The repository contains notes and assignments for this course. Current students, please do not plagiarize this work as it results in violation of Coursera honor code.
+This repository contains notes and assignments for the first course in Robotics Specialization offered by University of Pennsylvania on Coursera. 
+
+**Current students, please do not plagiarize this work as it results in violation of Coursera honor code.**
 
 ## Assignments completed using Quadrotor simulator
 
