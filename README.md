@@ -15,4 +15,4 @@ This repository contains notes and assignments for the first course in Robotics 
 
 *More information about this course can be found at the [coursera page](https://www.coursera.org/learn/robotics-flight/home/info).*
 
-*Current students, please avoid plagiarizing this work as it results in violation of Coursera honor code.*
+*Current coursera students, please avoid plagiarizing this work as it results in violation of Coursera honor code.*
